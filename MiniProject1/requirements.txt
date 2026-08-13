@@ -1,0 +1,7 @@
+pandas==3.0.5
+numpy==2.0.2
+matplotlib
+seaborn
+scikit-learn
+tensorflow==2.18.0
+protobuf==5.29.6
